@@ -1,0 +1,32 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8001:8000"
+    environment:
+      - OLLAMA_HOST=http://host.docker.internal:11434
+      - DATABASE_URL=postgresql://quant:${POSTGRES_PASSWORD:-quant}@db:5432/quant_demo
+    depends_on:
+      - db
+
+  db:
+    image: pgvector/pgvector:pg16
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=quant
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-quant}
+      - POSTGRES_DB=quant_demo
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - app
+
+volumes:
+  pgdata:

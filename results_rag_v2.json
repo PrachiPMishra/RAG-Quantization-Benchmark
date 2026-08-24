@@ -1,0 +1,326 @@
+[
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "In the chloroplasts of plant cells, specifically within the thylakoids.",
+    "latency_ms": 1544.3413759994655,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 10
+  },
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "Photosynthesis occurs in the chloroplasts of plant cells, specifically within the thylakoids.",
+    "latency_ms": 5543.391211000198,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 12
+  },
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "Photosynthesis occurs in the chloroplasts of plant cells, specifically within the thylakoids.",
+    "latency_ms": 12183.013296999889,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 12
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The two main stages of photosynthesis are the light-dependent reactions, which occur in the thylakoid membrane of chloroplasts, and the light-independent reactions (Calvin cycle), which take place in the stroma of chloroplasts.",
+    "latency_ms": 4695.50641800015,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 32
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The two main stages of photosynthesis are the light-dependent reactions, which occur in the thylakoid membrane, and the light-independent reactions (Calvin cycle), which take place in the stroma.",
+    "latency_ms": 7092.515127999832,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 28
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The two main stages of photosynthesis are the light-dependent reactions, which occur in the thylakoid membrane, and the light-independent reactions (Calvin cycle), which take place in the stroma.",
+    "latency_ms": 11493.551921999824,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 28
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "Oxygen is released during the light-dependent reactions, coming from the splitting of water molecules.",
+    "latency_ms": 4361.98083599993,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 14
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "Oxygen is released during the light-dependent reactions, coming from the splitting of water molecules.",
+    "latency_ms": 5474.745544000143,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 14
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "Oxygen is released during the light-dependent reactions, coming from the splitting of water molecules.",
+    "latency_ms": 7520.076587000403,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 14
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 4071.3233350006703,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 13
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 5112.714710000546,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 13
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 7334.6401699991475,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 13
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains.",
+    "latency_ms": 4844.719168000665,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 26
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains.",
+    "latency_ms": 5777.138876999743,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 26
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains.",
+    "latency_ms": 10822.914254999887,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 26
+  },
+  {
+    "question": "Write out the overall chemical equation for photosynthesis exactly as given, including all coefficients.",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "6CO2 + 6H2O + light energy -> C6H12O6 + 6O2",
+    "latency_ms": 3705.1317509994988,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 10
+  },
+  {
+    "question": "Write out the overall chemical equation for photosynthesis exactly as given, including all coefficients.",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "6CO2 + 6H2O + light energy -> C6H12O6 + 6O2",
+    "latency_ms": 6504.624711000361,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 10
+  },
+  {
+    "question": "Write out the overall chemical equation for photosynthesis exactly as given, including all coefficients.",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "6CO2 + 6H2O + light energy -> C6H12O6 + 6O2",
+    "latency_ms": 7452.277044999391,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 10
+  },
+  {
+    "question": "List every specific chemical compound or molecule mentioned in the passage, in the order they appear.",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "CO2, H2O, C6H12O6, O2",
+    "latency_ms": 4306.3347110000905,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 4
+  },
+  {
+    "question": "List every specific chemical compound or molecule mentioned in the passage, in the order they appear.",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "CO2, H2O, C6H12O6, O2",
+    "latency_ms": 5917.372085999887,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 4
+  },
+  {
+    "question": "List every specific chemical compound or molecule mentioned in the passage, in the order they appear.",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "CO2, H2O, C6H12O6, O2",
+    "latency_ms": 7611.468211999636,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 4
+  },
+  {
+    "question": "If a plant's stroma were damaged but its thylakoids remained fully functional, which specific products would the plant still be able to produce, and which would it lose the ability to make?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The plant would still be able to produce glucose (via the Calvin cycle in the stroma) and ATP and NADPH (via light-dependent reactions in the thylakoids), but it would lose the ability to produce oxygen, as oxygen is released during water splitting in the thylakoids. However, since the stroma is damaged, the Calvin cycle would be impaired, so glucose production would be lost. Thus, the plant would lose the ability to produce glucose and oxygen, and would still produce ATP and NADPH.",
+    "latency_ms": 6757.715085999735,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 82
+  },
+  {
+    "question": "If a plant's stroma were damaged but its thylakoids remained fully functional, which specific products would the plant still be able to produce, and which would it lose the ability to make?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The plant would still be able to produce ATP and NADPH (from the light-dependent reactions in thylakoids) but would lose the ability to produce glucose (from the Calvin cycle in the stroma), as the light-independent reactions require ATP and NADPH generated in the thylakoids and occur in the stroma. Thus, glucose production would be impaired.",
+    "latency_ms": 8113.790213000357,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 55
+  },
+  {
+    "question": "If a plant's stroma were damaged but its thylakoids remained fully functional, which specific products would the plant still be able to produce, and which would it lose the ability to make?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The plant would still be able to produce glucose (C6H12O6) but would lose the ability to produce ATP and NADPH. It would also lose the ability to release oxygen.",
+    "latency_ms": 9389.506796000205,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 29
+  },
+  {
+    "question": "Based on the passage, if oxygen production suddenly stopped in a leaf, which specific reaction and which specific molecule would most likely be malfunctioning, and why?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The light-dependent reactions would most likely be malfunctioning, specifically the splitting of water molecules, because this process releases oxygen as a byproduct. Without this step, oxygen production would stop.",
+    "latency_ms": 4700.955127999805,
+    "ram_mb": 2760.9999990463257,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 29
+  },
+  {
+    "question": "Based on the passage, if oxygen production suddenly stopped in a leaf, which specific reaction and which specific molecule would most likely be malfunctioning, and why?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The light-dependent reactions would most likely be malfunctioning, specifically the splitting of water molecules, because this process releases oxygen as a byproduct. Without this step, oxygen production would stop.",
+    "latency_ms": 6353.1732120000015,
+    "ram_mb": 4461.519998550415,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 29
+  },
+  {
+    "question": "Based on the passage, if oxygen production suddenly stopped in a leaf, which specific reaction and which specific molecule would most likely be malfunctioning, and why?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The light-dependent reactions would most likely be malfunctioning, specifically the splitting of water molecules (photolysis), because this process releases oxygen as a byproduct. Without this step, oxygen production would stop.",
+    "latency_ms": 14437.908881999647,
+    "ram_mb": 8057.709999084473,
+    "retrieved_chunks": [
+      "Photosynthesis is the process by which plants, algae, and some bacteria convert\nlight energy into chemical energy stored in glucose. It occurs primarily in the\nchloroplasts of plant cells, specifically within structures called thylakoids,\nwhich contain the pigment chlorophyll. The process has two main stages: the\nlight-dependent reactions, which occur in the thylakoid membrane and produce ATP\nand NADPH while releasing oxygen as a byproduct of splitting water molecules, an\nd\nthe light-independent reactions (the Calvin cycle), which take place in the stro\nma\nand use ATP and NADPH to convert carbon dioxide into glucose. Photosynthesis is\nessential to life on Earth because it produces the oxygen most organisms need to\nsurvive and forms the base of nearly all food chains. The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+      ". The overall chemical equat\nion\nfor photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2."
+    ],
+    "word_count": 30
+  }
+]

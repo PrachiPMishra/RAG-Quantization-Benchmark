@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "Photosynthesis occurs in the chloroplasts of plant cells, specifically within the thylakoid membranes.",
+    "latency_ms": 3906.790125999578,
+    "ram_mb": 2760.9999990463257
+  },
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "Photosynthesis occurs in the chloroplasts of plant cells, specifically within the thylakoids.",
+    "latency_ms": 5268.897627000115,
+    "ram_mb": 4461.519998550415
+  },
+  {
+    "question": "Where in the plant cell does photosynthesis occur?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "Photosynthesis occurs in the chloroplasts of plant cells, specifically within the thylakoid membranes.",
+    "latency_ms": 9324.246212000617,
+    "ram_mb": 8057.709999084473
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The two main stages of photosynthesis are:\n\n1. The light-dependent reactions, which occur in the thylakoid membrane of the chloroplasts. These reactions convert light energy into chemical energy (ATP and NADPH) and release oxygen as a byproduct when water molecules are split.\n\n2. The light-independent reactions (also known as the Calvin cycle), which take place in the stroma of the chloroplasts. These reactions use ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 7409.2192950001845,
+    "ram_mb": 2760.9999990463257
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The two main stages of photosynthesis are:\n\n1. The light-dependent reactions, which occur in the thylakoid membrane of the chloroplasts.  \n2. The light-independent reactions (also known as the Calvin cycle), which take place in the stroma of the chloroplasts.",
+    "latency_ms": 7168.13017000004,
+    "ram_mb": 4461.519998550415
+  },
+  {
+    "question": "What are the two main stages of photosynthesis and where does each take place?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The two main stages of photosynthesis are:\n\n1. The light-dependent reactions, which occur in the thylakoid membrane of the chloroplasts.  \n2. The light-independent reactions (also known as the Calvin cycle), which take place in the stroma of the chloroplasts.",
+    "latency_ms": 12146.563754999988,
+    "ram_mb": 8057.709999084473
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The byproduct released during the light-dependent reactions is oxygen. It comes from the splitting of water molecules (H\u2082O) in the thylakoid membrane of the chloroplast. During this process, water is broken down into oxygen, protons, and electrons, and the oxygen is released as a byproduct.",
+    "latency_ms": 5304.124711000441,
+    "ram_mb": 2760.9999990463257
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The byproduct released during the light-dependent reactions is oxygen (O\u2082). It comes from the splitting of water molecules (H\u2082O) in a process called photolysis, which occurs in the thylakoid membrane of the chloroplasts. During this process, water is broken down into oxygen, protons (H\u207a), and electrons, with oxygen being released as a byproduct.",
+    "latency_ms": 7809.92617100037,
+    "ram_mb": 4461.519998550415
+  },
+  {
+    "question": "What byproduct is released during the light-dependent reactions, and where does it come from?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The byproduct released during the light-dependent reactions is oxygen (O\u2082). It comes from the splitting of water molecules (H\u2082O) in a process called photolysis, which occurs in the thylakoid membrane of the chloroplasts. During this process, water is broken down into oxygen, protons (H\u207a), and electrons, with oxygen being released as a byproduct.",
+    "latency_ms": 12442.369964000136,
+    "ram_mb": 8057.709999084473
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 3670.316167999772,
+    "ram_mb": 2760.9999990463257
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 5029.417335999824,
+    "ram_mb": 4461.519998550415
+  },
+  {
+    "question": "What does the Calvin cycle use to convert carbon dioxide into glucose?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "The Calvin cycle uses ATP and NADPH to convert carbon dioxide into glucose.",
+    "latency_ms": 7275.271295000493,
+    "ram_mb": 8057.709999084473
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-q4_K_M",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains. Through this process, plants, algae, and some bacteria convert light energy into chemical energy stored in glucose, which serves as a vital energy source for themselves and other organisms. This energy transfer supports the entire food web, making photosynthesis a foundational process for life as we know it.",
+    "latency_ms": 5672.967252999115,
+    "ram_mb": 2760.9999990463257
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-q8_0",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains.",
+    "latency_ms": 5631.200669000464,
+    "ram_mb": 4461.519998550415
+  },
+  {
+    "question": "Why is photosynthesis essential to life on Earth?",
+    "model_variant": "qwen3:4b-instruct-2507-fp16",
+    "answer": "Photosynthesis is essential to life on Earth because it produces the oxygen most organisms need to survive and forms the base of nearly all food chains.",
+    "latency_ms": 7853.745545000493,
+    "ram_mb": 8057.709999084473
+  }
+]
