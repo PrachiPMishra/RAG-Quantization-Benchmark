@@ -2,7 +2,19 @@
 
 A benchmarking tool that measures how LLM quantization — fp16 vs. 8-bit vs. 4-bit — affects RAM usage, latency, and answer quality. Instead of synthetic benchmarks, it uses a real RAG pipeline over uploaded PDFs as the test harness: same documents, same questions, same retrieval, only the model's weight precision changes between runs. The PDF chat interface you can click around in is the vehicle for generating that comparison, not the product itself.
 
-> **[Screenshot / demo GIF placeholder — embed a short clip of the chat UI + model switcher here]**
+## Screenshots
+
+### Benchmark Dashboard
+
+![RAGQuantBench Chat](screenshots/dashboard.png)
+
+### RAG Chat Interface
+
+![Benchmark Dashboard](screenshots/single-document.png)
+
+### Multi-Document RAG
+
+![Multi-Document RAG](screenshots/multi-document.png)
 
 ## The question this answers
 
